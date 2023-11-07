@@ -1,4 +1,4 @@
-# chickeneye
+# ChickenEye - An Integrated Poultry Management System
 Project Overview: ChickenEye - An Integrated Poultry Management System
 Repository Location: https://github.com/creekcred/chickeneye
 
